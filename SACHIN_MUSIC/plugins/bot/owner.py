@@ -14,12 +14,12 @@ start_txt = """
 │├ ʀᴇᴀʟ ɴᴀᴍᴇ - ᴘʀɪɴᴄᴇ ʀᴀᴊᴘᴜᴛ
 │├─────────────────╯
 ├┼─────────────────⦿
-├┤~ @V_VIP_OWNER
-├┤~ @SACHIN_OWNER
-├┤~ @Il_4ST_FIGHTER_lI
+├┤~ @Rishu1286
+├┤~ @Ur_rishu_143
+├┤~ @Vip_robotz
 ├┼─────────────────⦿
 │├─────────────────╮
-│├OWNER│ @V_VIP_OWNER
+│├OWNER│ @Rishu1286
 │├─────────────────╯
 └┴─────────────────⦿
 **
@@ -32,17 +32,17 @@ start_txt = """
 async def start(_, msg):
     buttons = [
         [ 
-          InlineKeyboardButton(" 𝗦𝗔𝗖𝗛𝗜𝗡 𝗦𝗔𝗡𝗔𝗧𝗔𝗡𝗜 ", url=f"https://t.me/V_VIP_OWNER")
+          InlineKeyboardButton("𝗦𝗔𝗡𝗔𝗧𝗔𝗡𝗜 ", url=f"https://t.me/Rishu1286")
         ],
         [
-          InlineKeyboardButton("ＨＥＬＰ", url="https://t.me/Il_4ST_FIGHTER_lI"),
-          InlineKeyboardButton("ＲＥＰＯ", url="https://t.me/Il_4ST_FIGHTER_lI"),
+          InlineKeyboardButton("ＨＥＬＰ", url="https://t.me/rishu1286"),
+          InlineKeyboardButton("ＲＥＰＯ", url="https://t.me/rishu1286"),
           ],
                [
-                InlineKeyboardButton("ＳＡＮＡＴＡＮＩ ＮＥＴＷＯＲＫ", url=f"https://t.me/SANATANI_TECH"),
+                InlineKeyboardButton(" ＮＥＴＷＯＲＫ", url=f"https://t.me/ur_rishu_143"),
 ],
 [
-InlineKeyboardButton("ＯＦＦＩＣＩＡＬ ＢＯＴ", url=f"https://t.me/HIMANSHI_MUSIC_BOT"),
+InlineKeyboardButton("ＯＦＦＩＣＩＡＬ ＢＯＴ", url=f"https://t.me/vip_music_vc_bot"),
 
         ]]
     
