@@ -1,4 +1,4 @@
-# MODE BY - SACHIN SANATANI
+# MODE BY - RISHU SANATANI
 
 class Helper(object):
     HELP_M = '''```
@@ -397,22 +397,22 @@ class Helper(object):
 ʙєsᴛ ᴧηᴅ ᴄʜєᴧᴘ ɪη ᴛєʟєɢʀᴧϻ 400-500+
 ϻєϻʙєʀs ɪη σηє ᴘʀσϻσᴛɪση ɢυʀᴧηᴛєє 
 ─────────────────────────
-❍ ᴄσηᴛᴧᴄᴛ - [Sᴧᴄʜɪη Sᴧηᴧᴛᴧηɪ](https://t.me/V_VIP_OWNER)
-❍ ᴄσηᴛᴧᴄᴛ - [Sᴧᴄʜɪη Sᴧηᴧᴛᴧηɪ](https://t.me/V_VIP_OWNER)
+❍ ᴄσηᴛᴧᴄᴛ - [ʀɪsʜυ](https://t.me/lll_SANATANI_lll)
+❍ ᴄσηᴛᴧᴄᴛ - [Ꝛᴧᴅʜє Sᴧηᴧᴛᴧηɪ](https://t.me/V_VIP_OWNER)
 ─────────────────────────**
 '''
     HELP_ALLBOT = '''
 **─────────────────────────
-│ ᴡєʟᴄσϻє ᴛσ ˹[sᴧηᴧᴛᴧηɪ](https://t.me/SANATANI_TECH)˼ ʙσᴛ sᴛᴧᴛυs │
+│ ᴡєʟᴄσϻє ᴛσ ˹[ʀɪsʜυ](https://t.me/ur_rishu_143)˼ ʙσᴛ sᴛᴧᴛυs │
 ─────────────────────────
        ❖ │ ʀєᴧʟ ᴛɪϻє ʙσᴛ's sᴛᴧᴛυs │❖
 ─────────────────────────
 
-╭⎋ [sᴧᴘηᴧ ϻυsɪᴄ](https://t.me/SAPNA_X_ROBOT) : ᴧʟɪᴠє 
+╭⎋ [ʀɪsʜυ ϻυsɪᴄ](https://t.me/rishu_musicbot) : ᴧʟɪᴠє 
 ╰⊚ υᴘᴛɪϻє : 12ʜ:58ϻ:20s | ᴄᴘυ : 5.0% | 
        υsᴧɢє : 24 | ᴧssɪsᴛᴧηᴛs : 01
 
-╭⎋ [ᴧʟєxᴧ ϻυsɪᴄ](https://t.me/MUSIC_BOT_FREE_BOT) : ᴧʟɪᴠє 
+╭⎋ [ʀᴧᴅʜє ϻυsɪᴄ](https://t.me/MUSIC_BOT_FREE_BOT) : ᴧʟɪᴠє 
 ╰⊚ υᴘᴛɪϻє : 12ʜ:58ϻ:20s | ᴄᴘυ : 5.0% | 
        υsᴧɢє : 24 | ᴧssɪsᴛᴧηᴛs : 01
 
@@ -424,7 +424,7 @@ class Helper(object):
 ─────────────────────────
 ⊚ ʟᴧsᴛ ᴄʜєᴄᴋєᴅ ση : ᴅᴧᴛє : 20 Sep 2024 
 ─────────────────────────
-❍ ᴘσᴡєʀєᴅ ʙʏ ⁚ ˹ [𝛅ᴧηᴧᴛᴧηɪ Tєᴄի](https://t.me/ALL_SANATANI_BOT) ˼
+❍ ᴘσᴡєʀєᴅ ʙʏ ⁚ ˹ [ʀɪsʜυ](https://t.me/ur_rishu_143) ˼
 ─────────────────────────**
 '''
     HELP_ABOUT = '''
