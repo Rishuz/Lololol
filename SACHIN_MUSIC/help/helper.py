@@ -281,7 +281,7 @@ class Helper(object):
 **❍ /staff ➠ ᴅɪsᴘʟᴧʏs ᴛʜє ʟɪsᴛ σғ sᴛᴧғғ ϻєϻʙєʀs
 ❍ /bots ➠ ᴅɪsᴘʟᴧʏs ᴛʜє ʟɪsᴛ σғ ʙσᴛs ɪη ᴛʜє ɢʀσυᴘ
 
-❖ ϻᴧᴅє ʙʏ  ➠ [sᴧηᴧᴛᴧηɪ-ᴛєᴄʜ](https://t.me/SANATANI_TECH) **
+❖ ϻᴧᴅє ʙʏ  ➠ [ʀɪsʜυ-ϻυsɪᴄ](https://t.me/ur_rishu_143) **
 '''
 
 
@@ -293,7 +293,7 @@ class Helper(object):
 ❍ /setphoto ➠ sєᴛs ᴛʜє ɢʀσυᴘ ᴘʜσᴛσ
 ❍ /removephoto ➠ ʀєϻσᴠєs ᴛʜє ɢʀσυᴘ ᴘʜσᴛσ
 
-❖ ϻᴧᴅє ʙʏ  ➠ [sᴧηᴧᴛᴧηɪ-ᴛєᴄʜ](https://t.me/SANATANI_TECH) **
+❖ ϻᴧᴅє ʙʏ  ➠ [ʀɪsʜυ-ϻυsɪᴄ](https://t.me/ur_rishu_143) **
 '''
 
 
@@ -304,7 +304,7 @@ class Helper(object):
 **❍ /zombies ➠ ʀєϻσᴠєs ᴧᴄᴄ ᴅєʟєᴛєᴅ ϻєϻʙєʀs ғʀσϻ ᴛʜє ɢʀσυᴘ
 
 
-❖ ϻᴧᴅє ʙʏ  ➠ [sᴧηᴧᴛᴧηɪ-ᴛєᴄʜ](https://t.me/SANATANI_TECH) **
+❖ ϻᴧᴅє ʙʏ  ➠ [ʀɪsʜυ-ϻυsɪᴄ](https://t.me/ur_rishu_143) **
 '''
 
 
@@ -321,7 +321,7 @@ class Helper(object):
 ❍ /basket [ʙᴧsᴋєᴛʙᴧʟʟ ɢᴧϻє]
 ❍ /football [ғσσᴛʙᴧʟʟ ɢᴧϻє]
 
-❖ ϻᴧᴅє ʙʏ  ➠ [sᴧηᴧᴛᴧηɪ-ᴛєᴄʜ](https://t.me/SANATANI_TECH) **
+❖ ϻᴧᴅє ʙʏ  ➠ [ʀɪsʜυ-ϻυsɪᴄ](https://t.me/ur_rishu_143) **
 '''
 
 
@@ -332,7 +332,7 @@ class Helper(object):
 ❍ /imposter on
 ❍ /imposter off
 
-❖ ϻᴧᴅє ʙʏ  ➠ [sᴧηᴧᴛᴧηɪ-ᴛєᴄʜ](https://t.me/SANATANI_TECH) **
+❖ ϻᴧᴅє ʙʏ  ➠ [ʀɪsʜυ-ϻυsɪᴄ](https://t.me/ur_rishu_143) **
 '''
 
     HELP_23 = '''```
@@ -340,7 +340,7 @@ class Helper(object):
 
 **❍ /sg ➠ υsєʀ ηᴧϻє ᴧηᴅ υsєʀηᴧϻє ʜɪsᴛσʀʏ
 
-❖ ϻᴧᴅє ʙʏ  ➠ [sᴧηᴧᴛᴧηɪ-ᴛєᴄʜ](https://t.me/SANATANI_TECH) **
+❖ ϻᴧᴅє ʙʏ  ➠ [ʀɪsʜυ-ϻυsɪᴄ](https://t.me/ur_rishu_143) **
 '''
 
     HELP_24 = '''```
@@ -348,7 +348,7 @@ class Helper(object):
 
 **❍ /tr ➠ ᴄᴧη ᴛʀᴧηꜱʟᴧᴛє ϻυʟᴛɪᴘʟє ʟᴧηɢυᴧɢєs
 
-❖ ϻᴧᴅє ʙʏ  ➠ [sᴧηᴧᴛᴧηɪ-ᴛєᴄʜ](https://t.me/SANATANI_TECH) **
+❖ ϻᴧᴅє ʙʏ  ➠ [ʀɪsʜυ-ϻυsɪᴄ](https://t.me/ur_rishu_143) **
 '''
 
 
@@ -364,7 +364,7 @@ class Helper(object):
 
 ❍ /stack ➠ sєᴧʀᴄʜєs ғσʀ ᴘʀσɢʀᴧϻϻɪηɢ-ʀєʟᴧᴛєᴅ ɪηғσʀϻᴧᴛɪση ση sᴛᴧᴄᴋ σᴠєʀғʟσᴡ
 
-❖ ϻᴧᴅє ʙʏ  ➠ [sᴧηᴧᴛᴧηɪ-ᴛєᴄʜ](https://t.me/SANATANI_TECH) **
+❖ ϻᴧᴅє ʙʏ  ➠ [ʀɪsʜυ-ϻυsɪᴄ](https://t.me/ur_rishu_143) **
 '''
 
 
@@ -375,7 +375,7 @@ class Helper(object):
 ❍ /tgm [ʀєᴘʟʏ ᴛσ ᴧηʏ ϻєᴅɪᴧ]
 ❍ /tgt [ʀєᴘʟʏ ᴛσ ᴧηʏ ϻєᴅɪᴧ]
 
-❖ ϻᴧᴅє ʙʏ  ➠ [sᴧηᴧᴛᴧηɪ-ᴛєᴄʜ](https://t.me/SANATANI_TECH) **
+❖ ϻᴧᴅє ʙʏ  ➠ [ʀɪsʜυ-ϻυsɪᴄ](https://t.me/ur_rishu_143) **
 '''
     HELP_PROMOTION = '''
 **─────────────────────────
@@ -420,7 +420,7 @@ class Helper(object):
 ╰⊚ υᴘᴛɪϻє : 12ʜ:58ϻ:20s | ᴄᴘυ : 5.0% | 
        υsᴧɢє : 24 | ᴧssɪsᴛᴧηᴛs : 01
 ─────────────────────────
-⊚ ʙσᴛ sᴛᴧᴛυs ᴧηᴅ ϻσʀє ʙσᴛs - [ᴄʟɪᴄᴋ ϻє](https://t.me/All_SANATANI_BOT/324)
+⊚ ʙσᴛ sᴛᴧᴛυs ᴧηᴅ ϻσʀє ʙσᴛs - [ᴄʟɪᴄᴋ ϻє](https://t.me/vip_robotz/4)
 ─────────────────────────
 ⊚ ʟᴧsᴛ ᴄʜєᴄᴋєᴅ ση : ᴅᴧᴛє : 20 Sep 2024 
 ─────────────────────────
